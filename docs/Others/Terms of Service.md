@@ -9,4 +9,4 @@
 - All actions exploting the bot's vulnerabilities are prohibited.
 
 ## 4. Personal Informationq
-- Please check [Personal Information Policy](/About/Others/Personal%20Information%20Policy).
+- Please check [Personal Information Policy](/global/About/Others/Personal%20Information%20Policy).
